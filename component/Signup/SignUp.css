@@ -1,0 +1,37 @@
+/* body{
+    background-color: rgb(232, 143, 125);
+} */
+/* #main{
+    background-color: rgb(232, 143, 125);
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+
+} */
+#main-container{
+    margin: 140px auto;
+    /* margin: 30px; */
+    width: 25vw;
+    height: 60vh;
+    box-shadow: 0px 5px 5px 5px #ccc;
+    padding: 1%;
+    box-sizing: border-box;
+    background-color: #f4efef;
+}
+#main-container #header{
+    text-align: center;
+}
+#email, #password, #btn-div, #checkbox{
+    margin: 7% 0 0 8%;
+}
+#email-input, #password-input{
+  width: 80%;
+  height: 30px;
+}
+#btn-continue{
+    background-color: rgb(209, 74, 47);
+    width: 80%;
+    height: 30px;
+    color: white;
+    border:none
+}

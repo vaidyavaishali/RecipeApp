@@ -1,0 +1,25 @@
+.recipe-container{
+    margin: 140px auto;
+    /* margin: 30px; */
+    width: 25vw;
+    height: 60vh;
+    box-shadow: 0px 5px 5px 5px #ccc;
+    padding: 1%;
+    box-sizing: border-box;
+    background-color: #201212;
+    color:white
+}
+#dir-div, #img-div, #title-div, #author-div, #ing-div, #create-btn{
+    margin: 4% 0 0 8%;
+}
+#dir, #ing, #img, #title, #author{
+    width: 80%;
+    height: 30px; 
+}
+#create-btn{
+    margin-left: 30%;
+    width: 30%;
+    height: 30px;
+    background-color: #ccc;
+    color: #201212;
+}
